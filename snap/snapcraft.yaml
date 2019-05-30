@@ -1,4 +1,4 @@
-name: smari-azure-iot-edge-test
+name: smari-az-test
 version: '1.0'
 summary: Testing Azure cloud intelligence and analytics to edge devices 
 description: 
