@@ -25,4 +25,3 @@ sed -e "s@homedir: \"/var/lib/iotedge\"@homedir: \"$SNAP_COMMON/var/lib/iotedge\
 
 # also disable the service before installing so that it doesn't cause the 
 # installation to be aborted
-snapctl stop --disable "$SNAP_NAME.iotedged"
